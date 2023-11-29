@@ -8,6 +8,8 @@ class ViewController: UIViewController {
         label.text = "Hello,world!"
         
         view.addSubview(label)
+        
+        let image = UIImage()
     }
 
 
