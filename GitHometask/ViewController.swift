@@ -10,6 +10,11 @@ class ViewController: UIViewController {
         view.addSubview(label)
         
         let image = UIImage()
+        
+        let secondLabel = UILabel()
+        label.text = "New branch"
+        
+        view.addSubview(label)
     }
 
 
