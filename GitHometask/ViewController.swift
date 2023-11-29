@@ -5,7 +5,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         let label = UILabel()
-        label.text = "Hello,world!"
+        label.text = "Commit after copying"
         
         view.addSubview(label)
         
